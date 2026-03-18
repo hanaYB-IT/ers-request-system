@@ -1,0 +1,10 @@
+student,2335678,yara2008
+student,2331341,hana2003
+student,2334500,lama2023
+student,2332288,nora7788
+student,2339911,sara1234
+institute,3111122,instA998
+institute,3111133,instB441
+dean,4110001,deanA665
+dean,4110002,deanB551
+dean,4110003,deanC221
